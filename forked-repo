@@ -1,0 +1,5 @@
+curl -s https://api.github.com/repos/siya27654/final-project | grep -E '"fork":|"full_name":'
+$ curl -s https://api.github.com/repos/siya27654/final-project | grep -E '"fork":|"full_name":'
+
+  "fork": true,
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",nano forked-repo
